@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<db-data>
+	<dbUrl>jdbc:postgresql://localhost:5432/bookstore</dbUrl>
+	<dbUser>corsodb</dbUser>
+	<dbPass>password</dbPass>
+	<dbDriver>org.postgresql.Driver</dbDriver>
+	<dbFactory>com.test.JerseyDemo.daoImplem.DaoFactoryImpl</dbFactory>
+</db-data>

@@ -1,0 +1,13 @@
+.register{
+    display: flex;
+    height: inherit;
+    justify-content: center;
+    align-items: center;
+    padding: 10% 25%;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding-bottom: 40px;
+}
